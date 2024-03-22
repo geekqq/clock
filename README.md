@@ -10,7 +10,7 @@
 
 ## Or you can use docker to run this project with one line code
 
-`docker run --name stopwatchsite -dp 3006:3006 osaks/stopwatchsite:latest`
+`docker run --name stopwatchsite -dp 3006:3006 osaks/timeupdatesite:latest`
 
 
 ### Live Demo
